@@ -17,7 +17,7 @@ Install it with Composer:
         }
     ],
     "require": {
-        "jkphl/micrometa": "^0.3.2"
+        "jkphl/micrometa": "0.3.*@dev"
     }
 }
 ```
