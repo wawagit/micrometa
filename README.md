@@ -1,5 +1,7 @@
-micrometa (Symfony'ish fork of https://github.com/jkphl/micrometa)
+Micrometa Parser
 =========
+
+(Symfony'ish fork of https://github.com/jkphl/micrometa)
 
 Installation
 ------------
