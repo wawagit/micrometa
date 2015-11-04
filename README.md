@@ -9,7 +9,17 @@ Installation
 Install it with Composer:
 
 ```bash
-composer require jkphl/micrometa
+{
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/wawagit/micrometa"
+        }
+    ],
+    "require": {
+        "jkphl/micrometa": "^0.3.2"
+    }
+}
 ```
 
 Add this to your autoload.php:
